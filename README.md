@@ -1,3 +1,3 @@
 # fkanlab.github.io
 
-This is the source for the organization website for FKAN
+This is the organization website for FKAN.
