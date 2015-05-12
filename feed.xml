@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FKAN Lab</title>
+    <description>This is the website of the Fluoride Knowledge and Action Network&#39;s open data, knowlede and solutions projects on Github. This site contains summaries and snapshots of the activity in the various repositories.
+</description>
+    <link>http://fkanlab.github.io/</link>
+    <atom:link href="http://fkanlab.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Tue, 12 May 2015 04:17:03 +0000</pubDate>
+    <lastBuildDate>Tue, 12 May 2015 04:17:03 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    
+      <item>
+        <title>The Fluoride Knowledge and Action Network on Github</title>
+        <description>&lt;p&gt;&lt;strong&gt;Hello, World.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Several members of the &lt;a href=&quot;http://fluorideindia.org&quot;&gt;FKAN&lt;/a&gt; have felt the need to collect data, knowledge and solutions on Fluoride and Fluorosis in India. These &lt;a href=&quot;https://github.com/fkanlab&quot;&gt;Github repositories&lt;/a&gt; are an attempt to a address that need.&lt;/p&gt;
+
+&lt;p&gt;Data sets are being hosted &lt;a href=&quot;https://github.com/fkanlab/data&quot;&gt;here&lt;/a&gt;. In the coming days we hope to build a sizeable collection of data sets, all properly attributed, licensed and described. An &lt;a href=&quot;https://github.com/fkanlab/data/example&quot;&gt;example data set&lt;/a&gt; has been put up in the format we hope to use. These are early days, and feedback on the data structure and metadata are much appreciated. Post suggestions as an &lt;a href=&quot;https://github.com/fkanlab/data/issues&quot;&gt;issue&lt;/a&gt;, but please take the time to see if these have been discussed already. A mechanism to accept data contributions is being put in place and will be put up shortly on this site.&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href=&quot;https://github.com/fkanlab/knowledge&quot;&gt;Knowledge project&lt;/a&gt; will collate scientific knowledge around Fluoride and Fluorosis. This project will make extensive use of the &lt;a href=&quot;https://github.com/fkanlab/knowledge/wiki&quot;&gt;Wiki&lt;/a&gt;. More details on how you can contribute will be put up shortly.&lt;/p&gt;
+
+&lt;p&gt;In addition, there will be repositories on several open source / freely licensed solutions around water treatment, testing, nutrition, etc. These too will be summarized and announced on these pages.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 May 2015 08:32:11 +0000</pubDate>
+        <link>http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</link>
+        <guid isPermaLink="true">http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</guid>
+        
+        
+        <category>fkan</category>
+        
+        <category>github</category>
+        
+        <category>knowledge</category>
+        
+        <category>data</category>
+        
+      </item>
+    
+  </channel>
+</rss>
