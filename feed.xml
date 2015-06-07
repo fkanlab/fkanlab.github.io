@@ -2,16 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>FKAN Lab</title>
-    <description>This is the website of the Fluoride Knowledge and Action Network&#39;s open data, knowlede and solutions projects on Github. This site contains summaries and snapshots of the activity in the various repositories.
-</description>
+    <atom:link href="http://fkanlab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://fkanlab.github.io/</link>
-    <atom:link href="http://fkanlab.github.io/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Tue, 12 May 2015 04:17:03 +0000</pubDate>
-    <lastBuildDate>Tue, 12 May 2015 04:17:03 +0000</lastBuildDate>
-    <generator>Jekyll v2.4.0</generator>
+    <description>FKAN on Github</description>
+    <pubDate>Sun, 07 Jun 2015 10:26:22 +0000</pubDate>
     
       <item>
         <title>The Fluoride Knowledge and Action Network on Github</title>
+        <link>http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</link>
+        <guid isPermaLink="true">http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</guid>
         <description>&lt;p&gt;&lt;strong&gt;Hello, World.&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;Several members of the &lt;a href=&quot;http://fluorideindia.org&quot;&gt;FKAN&lt;/a&gt; have felt the need to collect data, knowledge and solutions on Fluoride and Fluorosis in India. These &lt;a href=&quot;https://github.com/fkanlab&quot;&gt;Github repositories&lt;/a&gt; are an attempt to a address that need.&lt;/p&gt;
@@ -23,18 +22,6 @@
 &lt;p&gt;In addition, there will be repositories on several open source / freely licensed solutions around water treatment, testing, nutrition, etc. These too will be summarized and announced on these pages.&lt;/p&gt;
 </description>
         <pubDate>Tue, 12 May 2015 08:32:11 +0000</pubDate>
-        <link>http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</link>
-        <guid isPermaLink="true">http://fkanlab.github.io/fkan/github/knowledge/data/2015/05/12/fkan-on-github.html</guid>
-        
-        
-        <category>fkan</category>
-        
-        <category>github</category>
-        
-        <category>knowledge</category>
-        
-        <category>data</category>
-        
       </item>
     
   </channel>
