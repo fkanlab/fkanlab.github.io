@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>FKAN Lab</title>
+    <title>Fluoride Knowledge and Action Network</title>
     <atom:link href="http://fkanlab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://fkanlab.github.io/</link>
     <description>FKAN on Github</description>
-    <pubDate>Sun, 07 Jun 2015 10:26:22 +0000</pubDate>
+    <pubDate>Tue, 09 Jun 2015 12:55:15 +0000</pubDate>
     
       <item>
         <title>The Fluoride Knowledge and Action Network on Github</title>
