@@ -5,7 +5,20 @@
     <atom:link href="http://fkanlab.github.io/feed.xml" rel="self" type="application/rss+xml"/>
     <link>http://fkanlab.github.io/</link>
     <description>FKAN on Github</description>
-    <pubDate>Thu, 11 Jun 2015 12:58:02 +0000</pubDate>
+    <pubDate>Sun, 14 Jun 2015 05:10:28 +0000</pubDate>
+    
+      <item>
+        <title>The First Dataset on FKAN Lab</title>
+        <link>http://fkanlab.github.io/fkan/github/data/2015/06/14/first-data-set-fkan-lab.html</link>
+        <guid isPermaLink="true">http://fkanlab.github.io/fkan/github/data/2015/06/14/first-data-set-fkan-lab.html</guid>
+        <description>&lt;p&gt;The &lt;a href=&quot;https://github.com/fkanlab/data&quot;&gt;Data project&lt;/a&gt; on &lt;a href=&quot;https://github.com/fkanlab&quot;&gt;FKAN Lab&lt;/a&gt; now has its first contribution.&lt;/p&gt;
+
+&lt;p&gt;This dataset - &lt;a href=&quot;https://github.com/fkanlab/data/tree/master/kolar_schools&quot;&gt;Kolar Schools&lt;/a&gt; - consists of Fluoride levels in water tested in schools in an informal survey in Kolar, Karnataka.&lt;/p&gt;
+
+&lt;p&gt;Thanks to &lt;a href=&quot;https://github.com/priyankaj23&quot;&gt;Priyanka Jain&lt;/a&gt; for collecting this data and making it available under an open license.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 14 Jun 2015 10:33:15 +0000</pubDate>
+      </item>
     
       <item>
         <title>The Fluoride Knowledge and Action Network on Github</title>
